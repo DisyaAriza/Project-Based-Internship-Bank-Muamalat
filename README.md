@@ -1,1 +1,3 @@
-# Project-Based-Internship-Bank-Muamalat
+
+Project ini merupakan tugas Business Intelligence Analyst dari VIX Bank Muamalat yang berfokus pada analisis data penjualan PT Sejahtera Bersama. Empat dataset utama—customers, orders, products, dan product_category—digabungkan menggunakan SQL di BigQuery untuk membentuk master table yang berisi informasi pelanggan, produk, kategori, jumlah pembelian, dan total penjualan. Master table kemudian divisualisasikan ke dalam dashboard Looker Studio untuk menampilkan metrik penting seperti total sales, total quantity, penjualan per kategori, penjualan per kota, serta top 5 kategori dengan performa terbaik. Hasil analisis ini memberikan insight mengenai kategori dan kota dengan kontribusi penjualan terbesar, serta membantu perusahaan memahami performa bisnis secara menyeluruh guna mendukung pengambilan keputusan yang lebih tepat.
+
